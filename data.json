@@ -3,10 +3,11 @@
     "PurchaseListID": "PL_20250606_002",
     "CreatedOn": "2025-06-06T05:01:10.6828616Z",
     "TotalEstimation": 5,
-    "Status": "Ready",
+    "Status": "Dropped",
     "PlannedDate": "2025-07-02T00:00:00",
-    "Remarks": "Just for Fun",
-    "Deducted": true
+    "Remarks": "Just for Fun.\r\n\r\n************Rejected*************",
+    "Deducted": false,
+    "Approval": "Rejected"
   },
   "materials": [
     {
