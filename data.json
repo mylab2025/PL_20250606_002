@@ -6,8 +6,7 @@
     "Status": "Ready",
     "PlannedDate": "2025-07-02T00:00:00",
     "Remarks": "Just for Fun",
-    "Deducted": true,
-    "Approval": "Approved"
+    "Deducted": true
   },
   "materials": [
     {
